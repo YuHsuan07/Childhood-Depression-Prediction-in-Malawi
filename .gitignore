@@ -3,6 +3,8 @@ data/
 *.sav
 *.xlsx
 *.xls
+*.docx
+*.rtf
 
 __pycache__/
 *.pyc
